@@ -1,7 +1,7 @@
 <h2>👋 About Me:</h2>
 <p>
   I am an experienced softwrare Developer. <br>
-  My expertise includes React, JavaScript, CSS3, tailwindcss, Bootstrap and HTML5 in Frontend. <br>
+  My expertise includes React, JavaScript, CSS3, SASS, tailwindcss, Bootstrap and HTML5 in Frontend. <br>
   in Backend side I can work with Node.js, SQl Server, MongoDB, Vb.net, C#.net, python,...
 </p>
 
